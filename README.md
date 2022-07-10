@@ -1,12 +1,10 @@
 ### Hi there! Myself Dipti Sharma 😄
 
-
-- 🔭 I’m currently working on Smart ChatBot
-- 🌱 I’m currently learning ML
-- 🤔 I’m looking for help with CP
-- 💬 Ask me about Development with Python and ML
-- 📫 How to reach me: [LinkedIn- Dipti_Sharma](https://www.linkedin.com/in/dipti-kk-sharma-3621271b0/) , [HackerRank- Dipti_Sharma](https://www.hackerrank.com/kkdiptimamta)
-- 😄 Pronouns: She/her
-- ⚡ Fun fact: Don't really know!!
-
-<img src="https://github-readme-stats.vercel.app/api?username=Dipti-22&&show_icons=%20true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+- :zap: A final year student at Nirma University.
+- 🌱 I love to develop applications and automate the existing ones using Python, ML.
+- 🌎 I like to collabrorate with people from different countries in order to gain more knowledge from their expertise.
+- 📫 How to reach me:
+   - :office: [LinkedIn- Dipti_Sharma](https://www.linkedin.com/in/dipti-kk-sharma-3621271b0/) 
+   - 📈 [HackerRank- Dipti_Sharma](https://www.hackerrank.com/kkdiptimamta)
+ 
+<img src="https://github-readme-stats.vercel.app/api?username=Dipti-22&&show_icons=true&theme=radical&">
