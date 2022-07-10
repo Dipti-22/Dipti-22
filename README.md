@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! Myself Dipti Sharma 😄
 
 
 - 🔭 I’m currently working on Smart ChatBot
