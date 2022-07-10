@@ -8,4 +8,4 @@
    - 📈 [HackerRank- Dipti_Sharma](https://www.hackerrank.com/kkdiptimamta)
  
 <img src="https://github-readme-stats.vercel.app/api?username=Dipti-22&&show_icons=true&theme=radical&">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipti-22&&show_icons=true&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipti-22&&show_icons=true&theme=radical&&layout=compact">
