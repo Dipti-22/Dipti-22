@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Smart ChatBot
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning ML
 - 🤔 I’m looking for help with CP
 - 💬 Ask me about Development with Python and ML
 - 📫 How to reach me: [LinkedIn- Dipti_Sharma](https://www.linkedin.com/in/dipti-kk-sharma-3621271b0/) , [HackerRank- Dipti_Sharma](https://www.hackerrank.com/kkdiptimamta)
