@@ -2,7 +2,7 @@
  
 <h1 align="center">Hi there! Myself Dipti Sharma 😄</h1>
 
-- :zap: A final year student at Nirma University.
+- :zap: Final year student at Nirma University.
 - 🌱 I love to develop applications and automate the existing ones using Python, ML.
 - 🌎 I like to collabrorate with people from different countries in order to gain more knowledge from their expertise.
 
